@@ -1,0 +1,15 @@
+:root{
+    --text-color:black;
+    --background-color:white;
+    --main-color:#202F37;
+    --sub-color:#C8F8FF;
+    --sub-color-2:#3C4A59;
+}
+
+*{
+    margin:0;
+    padding:0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
